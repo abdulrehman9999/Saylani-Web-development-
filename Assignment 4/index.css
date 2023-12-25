@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.h1{
+    color: rgb(102, 227, 24);
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 65px;
+}
+
+.table{
+ 
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: larger;
+    
+}
+.table1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    border: 1px solid white;
+    border: none;
+    font-family: sans-serif;
+    font-size: larger;
+}
+.sup{
+    display: flex;
+}

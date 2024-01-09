@@ -9,3 +9,49 @@ body *{
     width: 100%;
     flex-direction:column;
 }
+.servo{
+    background-color:#27279c;
+    color:white;
+    border: 1px solid blue;
+    width: 300px;
+    height:60px;
+    border: none;
+    font-family: sans-serif;
+}
+
+.servo:hover{
+    background-color:rgb(92, 92, 241) ;
+}
+
+.alt{
+    text-decoration: none;
+    color: white;
+    width: 170px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none; 
+}
+.alt:hover{
+    background-color:rgb(92, 92, 241) ;
+}
+.href{
+background-color: #cbc6bd;
+height: 90px;
+margin-top: 30px;
+font-size: x-large;
+display: flex;
+justify-content: center;
+}
+.com{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+.div{
+    display:flow;
+    text-align: center;
+    background-color: #303f9fe8;
+    padding: 10px 10px 10px 10px;
+}

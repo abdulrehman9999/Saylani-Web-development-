@@ -45,6 +45,20 @@ display: flex;
 justify-content: center;
 }
 .com{
+    color: white;
+    text-decoration: none;
+    
+}
+.com:hover{
+    background-color:rgb(92, 92, 241) ;
+    color: white;
+    text-decoration: none;
+    width: 140px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
     text-decoration: none;
     color: white;
     font-family: sans-serif;
@@ -55,3 +69,4 @@ justify-content: center;
     background-color: #303f9fe8;
     padding: 10px 10px 10px 10px;
 }
+

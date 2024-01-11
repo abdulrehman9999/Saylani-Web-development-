@@ -35,6 +35,7 @@ body *{
 }
 .alt:hover{
     background-color:rgb(92, 92, 241) ;
+    border-radius: 20px;
 }
 .href{
 background-color: #cbc6bd;
@@ -70,3 +71,12 @@ justify-content: center;
     padding: 10px 10px 10px 10px;
 }
 
+.flow{
+    display: flex;
+    gap: 10px;
+    width: 1330px;
+
+}
+.img:hover{
+    border-radius: 20px;
+}

@@ -1,0 +1,57 @@
+body
+{
+    background-image: url(./imgas/form\ \ free.avif);
+    background-size: cover;
+}
+.h1
+{
+    color: white;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.p
+{
+    color: white;
+    font-family: sans-serif;
+}
+
+.hr
+{
+    background: none;
+    border-bottom: 1px solid white;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    outline: none;
+    width: 20%;
+}
+
+.hr:hover
+{
+ border-bottom: 1px solid blue;  
+
+}
+
+.p:hover
+{
+    color: blue;
+}
+
+.button
+{
+    display: flex;
+    gap: 100px;
+}
+
+.abc{
+    width: 100px;
+    height: 30px;
+
+}
+
+.abc:hover
+{
+    background-color: rgba(0, 0, 255, 0.603);
+    border: none;
+}
